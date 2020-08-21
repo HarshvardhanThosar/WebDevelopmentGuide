@@ -22,7 +22,6 @@ Let's first learn what are the different types of websites. There are basically 
     Dynamic websites refer to a website consisting dynamic information that changes according to the backend data or APIs. _PHP_ __reuires__ a serve environment to run ( that consists of Apache, and PHP's own installation on the machine )[ All these various components and softwares are readily available in various softwares like XAMPP, WAMPServer or LAMP ]
     
     The following is a list of languages to be considered important for _backend_ as well as _frontend_ web development.
-    
     1. HTML [ element skeleton ]
     1. CSS / SCSS / SASS [ styling ]
     1. JavaScript ( Vanilla / JQuery / Vue / React ) [ behavior, backend and building APIs too ]
