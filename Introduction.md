@@ -31,7 +31,7 @@ Let's first learn what are the different types of websites. There are basically 
 ## IDEs & TextEditors
 Following is a list of various Text Editors and IDEs that are open-source. These are easy to understand and well-known softwares that have a huge community contributing to it. The experience can be further improved with its vast support for plugins and debugging tools.
 
-[![Sublime Text Editor](./sublime_text_96px.png) Sublime Text Editor](https://www.sublimetext.com "Download Sublime Text Editor")
+[![Sublime Text Editor](./sublime_text_96px.png)](https://www.sublimetext.com "Download Sublime Text Editor")
 [![Atom Text Editor](./atom_96px.png)](https://atom.io/ "Download Atom Text Editor")
 [![Visual Studio Code](./visual_studio_code_2019_96px.png)](https://code.visualstudio.com/download "Download Visual Studio Code")
 [![Visual Studio](./visual_studio_2019_96px.png)](https://visualstudio.microsoft.com/downloads/ "Download Visual Studio")
