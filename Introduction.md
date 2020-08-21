@@ -34,7 +34,7 @@ Following is a list of various Text Editors and IDEs that are open-source. These
 1. Sublime Text Editor: Simple and lite text editor that is capable of rectifying basic web development languages.
 1. Atom Text Editor: Another really cool text editor that supports all major languages.
 1. Visual Studio Code: A highly popular peice of software used by a wide spectrum of developers. It is even capable of debugging various languages natively. Additional debugging tools and be added from the humongous set of open-source extensions.
-1. Visual Studio: The GOAT. Its an IDE, a complete ideal software for developing any kind of project. The IDEs are capable of creating environment or required files for a certain project. All these feature do come at a cost of space/storage and performance. It should ideally be used in scenarios where the project is considerably large, requires additional environment files and setup to function and hence can not be handled by a Text Editor.
+1. Visual Studio: The GOAT. It is an IDE, a complete ideal software for developing any kind of project. The IDEs are capable of creating environment or required files for a certain project. All these feature do come at a cost of space/storage and performance. It should ideally be used in scenarios where the project is considerably large, requires additional environment files and setup to function and hence can not be handled by a Text Editor.
 
 Following are the logos of the above mentioned softwares (respectively). The images are clickable links to their respective official download page.
 
