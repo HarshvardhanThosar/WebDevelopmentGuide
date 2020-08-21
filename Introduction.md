@@ -30,6 +30,10 @@ Let's first learn what are the different types of websites. There are basically 
 
 ## IDEs & TextEditors
 Following is a list of various Text Editors and IDEs that are open-source. These are easy to understand and well-known softwares that have a huge community contributing to it. The experience can be further improved with its vast support for plugins and debugging tools.
+    1. Sublime Text Editor: Simple and lite text editor that is capable of rectifying basic web development languages.
+    1. Atom Text Editor: Another really cool text editor that supports all major languages.
+    1. Visual Studio Code: A highly popular peice of software used by a wide spectrum of developers. It is even capable of debugging various languages natively. Additional debugging tools and be added from the humongous set of open-source extensions.
+    1. Visual Studio: The GOAT. Its an IDE, a complete ideal software for developing any kind of project. The IDEs are capable of creating environment or required files for a certain project. All these feature do come at a cost of space, storage and performance. It should ideally be used to scenarios when the project is considerably big and also requires additional environment files and setup to function.
 
 [![Sublime Text Editor](./sublime_text_96px.png)](https://www.sublimetext.com "Download Sublime Text Editor")
 [![Atom Text Editor](./atom_96px.png)](https://atom.io/ "Download Atom Text Editor")
